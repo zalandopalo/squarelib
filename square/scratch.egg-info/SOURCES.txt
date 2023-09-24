@@ -1,0 +1,7 @@
+square/scratch.egg-info/PKG-INFO
+square/scratch.egg-info/SOURCES.txt
+square/scratch.egg-info/dependency_links.txt
+square/scratch.egg-info/top_level.txt
+square/__init__.py
+square/scratch.py
+square/setup.py
